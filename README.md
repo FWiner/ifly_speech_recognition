@@ -4,9 +4,11 @@
 
 ### 安装
 
-```dart
-dependencies:
-  ifly_speech_recognition: ^0.3.1+3
+```
+ifly_speech_recognition:
+    git:
+      url: https://github.com/FWiner/ifly_speech_recognition.git
+      ref: master # branch name
 ```
 
 ### 导入
